@@ -1,0 +1,4 @@
+Initial Project Ideas
+1)NFT Marketplace with local crypto coin.
+2)Paired AI based off API -BING/OPENAI.
+3)E-COMMERCE Store.
